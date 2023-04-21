@@ -1,0 +1,5 @@
+.PHONY: all
+
+all:
+	node indexer/check.js
+	node indexer/indexer.js
