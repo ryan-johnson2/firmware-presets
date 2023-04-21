@@ -147,7 +147,8 @@
       "VTX"
     ],
     "author": [
-      "Betaflight"
+      "Betaflight",
+      "QuadMcFly (Ryan Harrell)"
     ],
     "keywords": [
       "actual",
@@ -157,8 +158,11 @@
       "clear",
       "default",
       "defaults",
+      "DJI",
       "filter",
       "filters",
+      "HD",
+      "HDOSD",
       "leds",
       "mode",
       "modes",
@@ -369,6 +373,23 @@
       ],
       "author": "Betaflight",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/osd/ntninja-walksnail-freestyle-osd.txt",
+      "hash": "795800595129f95f6c1e83119d290904739c32ee4e54e21c41083881339681b6",
+      "title": "QuadMcFly - DJI HD OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "DJI",
+        "HD",
+        "HDOSD"
+      ],
+      "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
